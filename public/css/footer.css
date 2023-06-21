@@ -1,0 +1,18 @@
+footer {
+    text-align: center;
+    padding: 2rem 0;
+  }
+footer .footer-logo {
+    margin-bottom: 3rem;
+  }
+  footer .footer-socials a {
+    margin-right: 1rem;
+  }
+  footer .footer-socials {
+    margin-bottom: 1rem;
+  }
+  footer .footer-socials a img {
+    width: 35px;
+    height: 35px;
+    margin-top: 2rem;
+  }
